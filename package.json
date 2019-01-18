@@ -1,5 +1,5 @@
 {
-  "name": "runapp",
+  "name": "run-main",
   "version": "0.1.0",
   "description": "run a node.js app",
   "main": "index.js",
@@ -7,8 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "runapp": "./run.js",
-    "run-app": "./run.js"
+    "runmain": "./run.js",
+    "run-main": "./run.js"
   },
   "repository": {
     "type": "git",
