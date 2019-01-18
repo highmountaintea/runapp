@@ -6,6 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bin": {
+    "runapp": "./run.js",
+    "run-app": "./run.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/highmountaintea/runapp.git"
